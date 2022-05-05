@@ -6,5 +6,5 @@ Everything can be seen on www.pcbuilds.lt
 • This test is / was deployed to this domain
 • Server - Linux Ubuntu 20.04
 • All further progess is currently in the development process
-• The main repository is hidden
+• This is not the main repository of the project
 
